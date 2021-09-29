@@ -1,0 +1,20 @@
+sudo apt install lightdm
+es para el inicio de sesion, es decir nombre y contra como windows = l , lo de bloquear pantalla.
+
+seleccionamos el lightdm para que se inicie, reiniciamos y listo
+
+sudo apt install feh
+para cambiar imagen de fondo
+
+sudo apt install fonts-font-awesome
+para los iconos de los entornos de trabajo
+
+sudo apt install compton
+para tranparecia de todo incluido terminal, es decir difuminacion entre cambio de espacio de trabajo o a
+pps.
+
+sudo apt install rofi
+Instalar rufi i cambiar el actual dmenu por rufi
+
+sudo apt install i3-gaps ,, pero primero sigue las instrucciones del link
+https://github.com/Airblader/i3/wiki/Installation
